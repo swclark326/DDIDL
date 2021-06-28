@@ -15,3 +15,4 @@ with open(data_file, "w") as f:
 data = pd.read_csv(data_file)
 print(data)
 
+print('not sure if this works')
